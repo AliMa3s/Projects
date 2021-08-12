@@ -1,0 +1,10 @@
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.exe.config
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.exe
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.pdb
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.AssemblyReference.cache
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.VoiceCommand.resources
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.Properties.Resources.resources
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.GenerateResource.cache
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.exe
+C:\Users\alima\source\repos\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.pdb
